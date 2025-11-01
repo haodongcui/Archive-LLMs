@@ -1,4 +1,4 @@
-# LearnAI
+# Archive-LLMs
 
 A repo to archive my journey of learning LLMs. 😀😀😀
 
@@ -27,7 +27,7 @@ Welcome to star and fork this repo.🥰🥰🥰
 
 
 ---
-# Tips
+## Tips
 
 ### Create Datasets Soft Link by `管理员权限`
 ```bash
