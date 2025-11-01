@@ -6,7 +6,7 @@ Welcome to star and fork this repo.🥰🥰🥰
 
 ---
 
-## Projects
+## Projects and References
 
 ### 🥰BPE Tokenizer from scratch
 - [My BPE-Tokenizer😊](https://github.com/haodongcui/LearnAI/My-BPE-Tokenizer)
